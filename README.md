@@ -1,4 +1,4 @@
 # omgit-demo
 This is my first Git Repository.
 <br>
-Author - om chauhan
+Author - om(devom)
